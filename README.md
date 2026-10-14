@@ -75,7 +75,6 @@ Topic 1 averaged **~3.6–3.8 stars** but a sentiment score of only **~0.10–0.
 **Team:** Ba Khanh Huyen Nguyen, Bhabna Mukherjee, Farah Mutahhara, Milena Sajjan, Thuong Tran · Supervised by Dr. Mika Westerlund
 
 ## Files
-- [`report/`](report/): full final report (PDF)
 - Charts in the repository root
 
 **Tools:** Orange Data Mining · VADER · LDA · LDAvis · MDS
